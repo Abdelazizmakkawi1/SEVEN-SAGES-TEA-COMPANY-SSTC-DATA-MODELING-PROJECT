@@ -67,7 +67,7 @@ bot provided on this repo. The corresponding visuals can be seen grouped below.
 
 ![National-Clothing-Chain-Tab1](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab1.jpg)
 ___
-![National-Clothing-Chain-Tab2]((https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab2.jpg)
+![National-Clothing-Chain-Tab2](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab2.jpg)
 ___
 ![National-Clothing-Chain-Tab3](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab3.jpg)
 ___
