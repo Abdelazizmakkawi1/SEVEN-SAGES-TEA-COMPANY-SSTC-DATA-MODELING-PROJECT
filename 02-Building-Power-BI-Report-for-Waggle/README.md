@@ -37,8 +37,6 @@ The report is to include 3 tabs
 - The second page should focus on insights related to pets using the device.
 - The third page should focus on insights related to the families that own the pets.
 
-Full PDF report can be found on `Waggle-Report.pdf` file provided on this repo.
-
 
 ### Report Tab 1:
 To address the CEO’s questions 
