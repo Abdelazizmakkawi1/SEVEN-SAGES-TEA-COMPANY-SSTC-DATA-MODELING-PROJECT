@@ -40,9 +40,9 @@ The report is to include 3 tabs
 
 ### Report Tab 1:
 To address the CEO’s questions 
-- A visualization was ploted to highlight the difference between 'average daily steps' over time recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month and with the using of button 2020 you can have a detailed look at its trend.
-- A visualization highlighted the difference between the 'customer ratings' for Lapdog devices vs. Lapcat devices.
-- 2 visualization highlighted the difference between the 'customer recommendations' for Lapdog devices vs. Lapcat devices.
+- A Line chart was ploted to highlight the difference between 'average daily steps' over time recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month and with the using of button 2020 you can have a detailed look at its trend.
+- A Pie chart highlighted the difference between the 'customer ratings' for Lapdog devices vs. Lapcat devices.
+- 2 Pie charts highlighted the difference between the 'customer recommendations' for Lapdog devices vs. Lapcat devices.
 
 
 ![Waggle Report Tab 1](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/02-Building-Power-BI-Report-for-Waggle/Theme%20and%20sources/Waggle-Tab1.jpg)
@@ -51,9 +51,9 @@ ___
 
 ### Report Tab 2:
 To drive insights from the `pets` dataset, the second tab included:
-- A visualization that shows the `Heartrate by Activity` of cats and dogs.
-- A visualization that shows the `age` difference for cats and dogs.
-- 2 visualizations that show the difference in daily steps by age for dogs and cats that will switch to show the difference between activity minutes by age for dogs and cats using buttons.
+- A Line chart that shows the `Heartrate by Activity` of cats and dogs.
+- A Scatter chart that shows the `age` difference for cats and dogs.
+- 2 Histograms that show the difference in daily steps by age for dogs and cats that will switch to show the difference between activity minutes by age for dogs and cats using buttons.
 
 
 ![Waggle Report Tab 2](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/02-Building-Power-BI-Report-for-Waggle/Theme%20and%20sources/Waggle-Tab2.jpg)
@@ -63,9 +63,9 @@ ___
 ### Report Tab 3:
 To drive insights from the `family` dataset, the third tab included:
 - A table that shows important family data.
-- A card that shows the count of total pets on the dataset, and has 2 bookmark buttons to show only cat or dog counts.
-- A visualization that shows the relation between `house hold income` and `number of owned pets` along the dataset with `pet type` as hue. 
-
+- A Line chart that shows the relationship between household income and how many pets they own. 
+- A Line chart that shows the relationship between pet expenses and how many pets they own. 
+- A Map visual that shows the distribution of families that own the pets in the USA
 
 ![Waggle Report Tab 3](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab3.jfif)
 
