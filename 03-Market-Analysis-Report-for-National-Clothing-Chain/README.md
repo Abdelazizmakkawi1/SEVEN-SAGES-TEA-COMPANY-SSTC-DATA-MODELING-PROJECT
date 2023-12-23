@@ -65,7 +65,7 @@ A snapshot of the data model is provided below and can be found on `National-Clo
 Full report can be found on `National-Clothing-Chain-Report.pdf` and summery with finding can be found on `National-Clothing-Chain-Summary.doc` file, 
 bot provided on this repo. The corresponding visuals can be seen grouped below.
 
-![National-Clothing-Chain-Tab1]([https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/avg-income-by-state.png](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab1.jpg))
+![National-Clothing-Chain-Tab1](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab1.jpg)
 ___
 ![predicted-income-by-state](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/predicted-income-by-state.png)
 ___
