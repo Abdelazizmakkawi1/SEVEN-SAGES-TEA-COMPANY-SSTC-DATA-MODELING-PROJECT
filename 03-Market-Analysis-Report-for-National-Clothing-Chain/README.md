@@ -62,7 +62,7 @@ A snapshot of the data model is provided below and can be found on `National-Clo
 4. Which customer do you predict has the highest income?
 5. Which product will be advertised the most?
 
-Full report can be found on `National-Clothing-Chain-Report.pdf` and summery with finding can be found on `National-Clothing-Chain-Summary.doc` file, 
+Summary with finding can be found on `Abdelaziz Makkawi Summary.doc` file, 
 bot provided on this repo. The corresponding visuals can be seen grouped below.
 
 ![National-Clothing-Chain-Tab1](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab1.jpg)
