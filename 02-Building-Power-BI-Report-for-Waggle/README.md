@@ -67,6 +67,6 @@ To drive insights from the `family` dataset, the third tab included:
 - A Line chart that shows the relationship between pet expenses and how many pets they own. 
 - A Map visual that shows the distribution of families that own the pets in the USA
 
-![Waggle Report Tab 3](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab3.jfif)
+![Waggle Report Tab 3](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/02-Building-Power-BI-Report-for-Waggle/Theme%20and%20sources/Waggle-Tab3.jpg)
 
 ___
