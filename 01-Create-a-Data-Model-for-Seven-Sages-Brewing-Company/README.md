@@ -15,7 +15,7 @@ Below is a quick demonestration about project steps.
 ### Get Data:
 used files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`,
  `SSBC Product Offerings.pdf`, `USD-CAD Exchange Rates.csv`, 
- `Monthly Sales Logs/` downloaded from Udacity and can be found on `Source Files` folder on this repo.
+ `Monthly Sales Logs` downloaded from Udacity and can be found on `Source Files` folder on this repo.
 
 
 ### ETL with Power Query:
