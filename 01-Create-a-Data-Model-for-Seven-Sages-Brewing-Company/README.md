@@ -1,6 +1,6 @@
 # **Create a Data Model for Seven Sages Brewing Company**
 
-Project 1 of Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331)
+Project 1 of Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree)
 in **Introduction to Preparing and Modeling Data** course.
 
 ## Project Description:
