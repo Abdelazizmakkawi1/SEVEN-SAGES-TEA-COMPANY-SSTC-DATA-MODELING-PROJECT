@@ -52,7 +52,7 @@ ___
 ## Data Model
 A snapshot of the data model is provided below and can be found on `National-Clothing-Chain-Data-Model.png` on this repo.
 
-![National Clothing Chain Data Model](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Data-Model.png)
+![National Clothing Chain Data Model](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/Abdelaziz%20Makkawi%20Summary.docx)
 
 
 ## Analysis Questions
