@@ -76,4 +76,4 @@ All of them have a very brief executive summary at the bottom.
 
 ![SSTC Report Tab 3](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSTC-Report-Tab3.jpg)
 
-![SSTC Report Tab 4](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg) 
+![SSTC Report Tab 4](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSTC-Report-Tab4.jpg)
