@@ -1,6 +1,6 @@
 # **Market Analysis Report for National Clothing Chain**
 
-Project 3 of Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331)
+Project 3 of Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree)
 in **Advanced Data Analysis with Power BI** course.
 
 ## Project Description:
