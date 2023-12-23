@@ -70,11 +70,3 @@ ___
 ![National-Clothing-Chain-Tab2](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab2.jpg)
 ___
 ![National-Clothing-Chain-Tab3](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Tab3.jpg)
-___
-![customer-return-rate](https://github.com/kingggost/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Report.pdf)
-___
-![product-recomm](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-recomm.png)
-___
-![product-by-price](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-by-price.png)
-___
-![product-instock](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-instock.png) 
