@@ -46,7 +46,7 @@ The date table includes standard fields:
 We ended up with one fact table `Full 2021 Sales` and four diminsion tables pointing towards it with an active one to many relationship.
 a snapshot of the data model is provided below and can be found on `SSBC-Data-Model.png` on this repo.
 
-![SSBC Data Model](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Data-Model.png)
+![SSBC Data Model](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSTC-Data%20model.jpg)
 
 
 ### Writing DAX Measures:
