@@ -45,7 +45,7 @@ To address the CEO’s questions
 - 2 visualization highlighted the difference between the customer recommendations for Lapdog devices vs. Lapcat devices.
 
 
-![Waggle Report Tab 1](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab1.jfif)
+![Waggle Report Tab 1](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/02-Building-Power-BI-Report-for-Waggle/Theme%20and%20sources/Waggle-Tab1.jpg)
 
 ___
 
