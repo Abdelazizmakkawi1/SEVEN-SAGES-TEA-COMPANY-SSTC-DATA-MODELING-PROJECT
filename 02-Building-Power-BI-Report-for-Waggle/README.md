@@ -11,7 +11,8 @@ The product team distributed 1,000 Lapcat prototypes for field testing. Now, aft
 Below is a quick demonestration about the project components.
 
 ### Data Model:
-A snapshot of the data model is provided below and can be found on `Waggle-data-model.png` on this repo.
+A snapshot of the data model is provided below and can be found on `Waggle-Data-Model.png.jpg
+` on this repo.
 
 ![Waggle Data Model](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/02-Building-Power-BI-Report-for-Waggle/Theme%20and%20sources/Waggle-Data-Model.png.jpg)
 
