@@ -1,4 +1,4 @@
-wwe# **Building a Power BI Report for Waggle**
+**Building a Power BI Report for Waggle**
 
 Project 2 of Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree)
 in **Creating Visualizations with Power BI** course.
