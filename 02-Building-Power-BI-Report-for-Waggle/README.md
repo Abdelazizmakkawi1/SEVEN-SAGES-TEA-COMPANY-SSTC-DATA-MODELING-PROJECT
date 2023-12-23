@@ -40,8 +40,9 @@ The report is to include 3 tabs
 
 ### Report Tab 1:
 To address the CEO’s questions 
-- 2 visualizations were ploted to highlight the difference between `average daily steps` over time recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month.
-- 2 visualizations highlighted the difference between the customer `ratings` for Lapdog devices vs. Lapcat devices in adition to the number of rates.
+- 1 visualization was ploted to highlight the difference between average daily steps over time recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month and with the using of button 2020 you can have a detailed look at its trend.
+- 1 visualization highlighted the difference between the customer ratings for Lapdog devices vs. Lapcat devices.
+- 2 visualization highlighted the difference between the customer recommendations for Lapdog devices vs. Lapcat devices.
 
 
 ![Waggle Report Tab 1](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab1.jfif)
