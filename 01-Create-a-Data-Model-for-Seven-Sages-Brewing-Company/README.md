@@ -63,12 +63,17 @@ The following measures have been created using DAX, are present on the data mode
 
 
 ### Build a Report
-To satisfy the CFO's requirements, our basic version of report will have two tabs, one summarizing sales by customer and customer type across quarters and would be labeled `Sales and GPM`. 
+To satisfy the CFO's requirements, our basic version of the report will have four tabs:
+The first one summarizes sales by customer and customer type across quarters and would be labeled `Sales and GPM`.
 The second will simply summarize the percentages of gross profit and unit sales by product and would be labeled `Gross Profit and Unit Sales`.
-Both tabs has a very brief executive summary at the bottom.
-Full PDF report can be found on `SSBC-Report` file provided on this repo.
+The third will show what product type is most profitable per serving for SSTC beverages.
+The fourth will show whether SSTC’s tea sells differently by month.
+All of them have a very brief executive summary at the bottom.
 
-![SSBC Report Tab 1](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab1.jpg)
+![SSTC Report Tab 1](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSTC-Report-Tab1.jpg)
 
+![SSTC Report Tab 2](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg) 
 
-![SSBC Report Tab 2](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg) 
+![SSTC Report Tab 3](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg) 
+
+![SSTC Report Tab 4](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg) 
