@@ -56,7 +56,7 @@ To drive insights from the `pets` dataset, the second tab included:
 - 2 visualizations that show the difference in daily steps by age for dogs and cats that will switch to show the difference between activity minutes by age for dogs and cats using buttons.
 
 
-![Waggle Report Tab 2](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab2.jfif)
+![Waggle Report Tab 2](https://github.com/Abdelazizmakkawi1/SEVEN-SAGES-TEA-COMPANY-SSTC-DATA-MODELING-PROJECT/blob/master/02-Building-Power-BI-Report-for-Waggle/Theme%20and%20sources/Waggle-Tab2.jpg)
 
 ___
 
